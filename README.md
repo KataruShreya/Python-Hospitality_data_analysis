@@ -1,7 +1,7 @@
 # Hospitality data analysis
 - **Project objective:** 
 
-    **1.** Perform _[data analysis on hospitality data](https://github.com/KataruShreya/Python-Hospitality_data_analysis/blob/main/hospitality%20data%20analysis.ipynb) 
+    **1.** Perform [data analysis on hospitality data](https://github.com/KataruShreya/Python-Hospitality_data_analysis/blob/main/hospitality%20data%20analysis.ipynb) 
 
     **2.** Analyze various data points from the hospitality industry to uncover insights and trends that can help improve operations, customer satisfaction, and revenue.
 
